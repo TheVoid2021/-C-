@@ -1,0 +1,1 @@
+"D:\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2022.1/bin/ninja/win/ninja.exe" -G Ninja -S "E:\Desktop\程序代码（VS）\01 C++书写HelloWorld" -B "E:\Desktop\程序代码（VS）\01 C++书写HelloWorld\cmake-build-debug"
